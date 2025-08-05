@@ -30,9 +30,9 @@ A neat and efficient basic calculator application that performs all standard ari
 
 Requirements:
 
-Python 3.6+
+1. Python 3.6+
 
-Tkinter (included with Python)
+2. Tkinter (included with Python)
 
 Running the application:
 
@@ -43,7 +43,7 @@ python "Simple Calculator.py"
 
 # 🖥️ Screen Recording
 
-(Insert a short clip of calculator usage)
+https://github.com/user-attachments/assets/ba47b837-35ed-4ee6-baf8-a6906eac9435
 
 # 📝 Notes
 
