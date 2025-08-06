@@ -18,13 +18,13 @@ A neat and efficient basic calculator application that performs all standard ari
 
 # 🧮 Supported Operations
 
-+ Addition
+• Addition
 
-- Subtraction
+• Subtraction
 
-× Multiplication
+• Multiplication
 
-÷ Division
+• Division
 
 # 🚀 Installation & Usage
 
@@ -36,9 +36,7 @@ Requirements:
 
 Running the application:
 
-bash
-Copy
-Edit
+
 python "Simple Calculator.py"
 
 # 🖥️ Screen Recording
