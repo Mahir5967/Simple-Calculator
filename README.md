@@ -28,16 +28,14 @@ A neat and efficient basic calculator application that performs all standard ari
 
 # 🚀 Installation & Usage
 
-Requirements:
+1. **Requirements**:
+   - Python 3.6+
+   - Tkinter (usually comes with Python)
 
-1. Python 3.6+
+2. **Running the application**:
+   ```bash
+   python Simple Calculator.py.py
 
-2. Tkinter (included with Python)
-
-Running the application:
-
-
-python "Simple Calculator.py"
 
 # 🖥️ Screen Recording
 
