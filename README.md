@@ -34,8 +34,7 @@ A neat and efficient basic calculator application that performs all standard ari
 
 2. **Running the application**:
    ```bash
-   python Simple Calculator.py.py
-
+   python Simple Calculator.py
 
 # 🖥️ Screen Recording
 
